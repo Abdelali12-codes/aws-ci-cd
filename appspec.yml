@@ -31,5 +31,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /
+  - source: /index.html
     destination: /var/www/html/
